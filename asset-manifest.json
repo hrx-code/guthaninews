@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/guthaninews/static/css/main.eb8916e8.css",
-    "main.js": "/guthaninews/static/js/main.117935e7.js",
+    "main.css": "/guthaninews/static/css/main.94a40e83.css",
+    "main.js": "/guthaninews/static/js/main.8bbe7339.js",
     "static/js/787.6b9fc690.chunk.js": "/guthaninews/static/js/787.6b9fc690.chunk.js",
     "index.html": "/guthaninews/index.html",
-    "main.eb8916e8.css.map": "/guthaninews/static/css/main.eb8916e8.css.map",
-    "main.117935e7.js.map": "/guthaninews/static/js/main.117935e7.js.map",
+    "main.94a40e83.css.map": "/guthaninews/static/css/main.94a40e83.css.map",
+    "main.8bbe7339.js.map": "/guthaninews/static/js/main.8bbe7339.js.map",
     "787.6b9fc690.chunk.js.map": "/guthaninews/static/js/787.6b9fc690.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb8916e8.css",
-    "static/js/main.117935e7.js"
+    "static/css/main.94a40e83.css",
+    "static/js/main.8bbe7339.js"
   ]
 }
