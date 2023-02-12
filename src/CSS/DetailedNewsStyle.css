@@ -1,0 +1,8 @@
+.detailedNews{
+    display:flex;
+    flex-direction: column;
+    width: 60%;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-size-adjust: 1;
+}
