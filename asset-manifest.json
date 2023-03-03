@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/guthaninews/static/css/main.7af55e18.css",
-    "main.js": "/guthaninews/static/js/main.a93c697e.js",
-    "static/js/787.6b9fc690.chunk.js": "/guthaninews/static/js/787.6b9fc690.chunk.js",
-    "index.html": "/guthaninews/index.html",
-    "main.7af55e18.css.map": "/guthaninews/static/css/main.7af55e18.css.map",
-    "main.a93c697e.js.map": "/guthaninews/static/js/main.a93c697e.js.map",
-    "787.6b9fc690.chunk.js.map": "/guthaninews/static/js/787.6b9fc690.chunk.js.map"
+    "main.css": "/static/css/main.ef02a261.css",
+    "main.js": "/static/js/main.3c3867f6.js",
+    "static/js/787.ffa4ca15.chunk.js": "/static/js/787.ffa4ca15.chunk.js",
+    "index.html": "/index.html",
+    "main.ef02a261.css.map": "/static/css/main.ef02a261.css.map",
+    "main.3c3867f6.js.map": "/static/js/main.3c3867f6.js.map",
+    "787.ffa4ca15.chunk.js.map": "/static/js/787.ffa4ca15.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7af55e18.css",
-    "static/js/main.a93c697e.js"
+    "static/css/main.ef02a261.css",
+    "static/js/main.3c3867f6.js"
   ]
 }
