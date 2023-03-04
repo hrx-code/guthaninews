@@ -5,7 +5,8 @@ import About from './Components/About';
 import News from './Components/News';
 import Nav from './Components/Nav';
 import NewsWithID from './Components/NewsWithID';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter as BrowserRouter, Route, Routes } from 'react-router-dom';
+// HashRouter as Router
 
 function App() {
   return (
@@ -13,10 +14,10 @@ function App() {
       <BrowserRouter>
         <Nav></Nav>
         <Routes>
-          <Route path="/" element={<Homepage></Homepage>}></Route>
-          <Route path="/About" element={<About></About>}></Route>
-          <Route path="/News" element={<News></News>}></Route>
-          <Route path="/News/:id" element={<NewsWithID></NewsWithID>}></Route>
+          <Route path="/https://hrx-code.github.io/guthaninews/" element={<Homepage></Homepage>}></Route>
+          <Route path="/https://hrx-code.github.io/guthaninews/About" element={<About></About>}></Route>
+          <Route path="/https://hrx-code.github.io/guthaninews/News" element={<News></News>}></Route>
+          <Route path="/https://hrx-code.github.io/guthaninews/News/:id" element={<NewsWithID></NewsWithID>}></Route>
         </Routes>
 
       </BrowserRouter>
